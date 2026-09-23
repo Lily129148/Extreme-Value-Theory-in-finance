@@ -50,14 +50,19 @@ Regression models are used to investigate the relationship between macroeconomic
 - **Logistic regression** estimates the probability of an extreme loss
 - **OLS regression** is used to examine relationships between FTSE 100 returns and macroeconomic variables
 
-## Key Findings
+## Results
 
-The analysis indicates that:
+The analysis estimates the behaviour of extreme FTSE 100 losses using a POT-GPD framework and examines the relationship between macroeconomic conditions and extreme-event probability.
 
-- EVT can be used to model the tail behaviour of extreme FTSE 100 losses
-- Macroeconomic conditions are associated with the probability of extreme market events
-- Monetary conditions and inflation are associated with increased downside risk
-- Economic growth is associated with lower extreme-risk probability
+### Extreme Value Analysis
+
+[insert key EVT figure]
+
+### Macroeconomic Drivers
+
+[insert logistic regression figure/table]
+
+The results provide evidence that macroeconomic conditions contain information about the likelihood of extreme downside events.
 
 ## Technologies & Methods
 
