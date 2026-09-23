@@ -91,6 +91,13 @@ The results provide evidence that macroeconomic conditions contain information a
 Extreme-Value-Theory-in-finance/
 │
 ├── README.md
-├── Macro and FTSE100.ipynb
-├── Macroeconomics and FTSE100.csv
-└── EVT vs Macroeconomics.docx
+├── FTSE100_EVT_Macroeconomic_Analysis.ipynb
+├── Macroeconomics_and_FTSE100.csv
+│
+└── figures/
+    ├── Correlation_Matrix.png
+    ├── Diagnostic_Graphs.png
+    ├── Extreme_Events.png
+    ├── Logit_Regression_Results.png
+    ├── Mean_Residual_Life_Plot.png
+    └── Threshold_Stability_Plot.png
