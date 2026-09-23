@@ -84,6 +84,6 @@ The analysis indicates that:
 Extreme-Value-Theory-in-finance/
 │
 ├── README.md
-├── [Notebook / Python files]
-├── data/
-└── figures/
+├── Macro and FTSE100.ipynb
+├── Macroeconomics and FTSE100.csv
+└── EVT vs Macroeconomics.docx
