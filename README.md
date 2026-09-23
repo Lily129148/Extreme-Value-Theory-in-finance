@@ -52,15 +52,17 @@ Regression models are used to investigate the relationship between macroeconomic
 
 ## Results
 
-The analysis estimates the behaviour of extreme FTSE 100 losses using a POT-GPD framework and examines the relationship between macroeconomic conditions and extreme-event probability.
-
 ### Extreme Value Analysis
 
-[insert key EVT figure]
+The Peaks Over Threshold (POT) approach was used to identify and model extreme FTSE 100 losses. Threshold stability analysis was used to assess the choice of threshold before fitting the Generalized Pareto Distribution.
+
+![Threshold Stability Plot](figures/Threshold_Stability_Plot.png)
 
 ### Macroeconomic Drivers
 
-[insert logistic regression figure/table]
+Logistic regression was used to examine the relationship between macroeconomic variables and the probability of extreme downside events.
+
+![Logistic Regression Results](figures/Logit_Regression_Results.png)
 
 The results provide evidence that macroeconomic conditions contain information about the likelihood of extreme downside events.
 
